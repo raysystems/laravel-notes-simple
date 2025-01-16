@@ -47,8 +47,7 @@ DB_PASSWORD=your_database_password</code></pre>
     <li><b>Install Dependencies</b><br>
       Make sure all dependencies are installed:
       <pre><code>composer install
-npm install
-npm run dev</code></pre>
+</code></pre>
     </li>
     <li><b>Check Permissions</b><br>
       Ensure the <code>storage</code> and <code>bootstrap/cache</code> directories are writable:
