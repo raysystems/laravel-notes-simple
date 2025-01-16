@@ -7,7 +7,6 @@
   <ul>
     <li>Securely store and manage your notes.</li>
     <li>Built with Laravel's robust and scalable framework.</li>
-    <li>Database encryption for sensitive data.</li>
   </ul>
 
   <hr>
